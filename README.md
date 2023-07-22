@@ -6,6 +6,16 @@
   <a href="https://github.com/SheikhHamza01"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+End+Web+Developer;Always%20learn%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
+
+<h3>I'm a Full Stack Developer, Teacher and Researcher!</h3>
+  <ul>
+    <li>🔭 I’m currently working as a Full Stack Developer.</li>
+    <li>🌱 I’m currently expanding my knowledge in Machine learning and Cybersecurity.</li>
+    <li>👯 I’m looking to collaborate with other content creators and developers.</li>
+    <li>📢 Love to teach and inspire students. Taught more than 150+ students.</li>
+    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
+    <li>💎 If you are a Tech boy/girl let's get connected</li>
+  </ul>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-hamza-695b54229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SheikhHamza" height="30" width="40" /></a>
@@ -33,6 +43,21 @@
 </p>
 <br/>
 <hr>
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SheikhHamza01&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=SheikhHamza01&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SheikhHamza01&theme=gruvbox"/></td>
+  </tr>
+</table>
+
+<hr>
+
 <h2 align>Spotify Playing 🎧</h2>
     
 ![Spotify](https://novatorem.vercel.app/api/spotify)
