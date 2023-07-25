@@ -16,7 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SECRETMESSAGE }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
-      - name: Commit & Push 
+      - name: Commit & Push
         run: |
           git config user.name SheikhHamza01
           git config user.email 2020cs673@student.uet.edu.pk
