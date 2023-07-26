@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Sheikh Hamza👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/SheikhHamza01"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+End+Web+Developer;Always%20learn%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/SheikhHamza01"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;MERN+Stack+Web+Developer;Front+End+Web+Developer;Back+End+Web+Developer;Always%20learn%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
 
@@ -133,6 +133,14 @@
     <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
   </a>
 </p>
+
+<hr>
+## 🚀Github Metrics
+
+<p align="center">
+    <img width="625em" src="https://github.com/SheikhHamza01/SheikhHamza01/blob/main/github-metrics.svg" />
+</p>
+    
 <br>
 
 <p align="center"> 
