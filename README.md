@@ -135,11 +135,7 @@
 </p>
 
 <hr>
-## 🚀Github Metrics
 
-<p align="center">
-    <img width="625em" src="https://github.com/SheikhHamza01/SheikhHamza01/blob/main/github-metrics.svg" />
-</p>
     
 <br>
 
