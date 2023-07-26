@@ -133,7 +133,13 @@
     <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
   </a>
 </p>
+<br>
 
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/SheikhHamza01/count.svg">
+</p>
+<br>
 
 <h2 align>Spotify Playing 🎧</h2>
     
