@@ -104,11 +104,8 @@
 </tr>
 </table>
 
-
-<h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
-
-<br/>
 <hr>
+<h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <table>
   <tr>
     <th>Stats</th>
